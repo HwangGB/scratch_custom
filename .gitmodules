@@ -1,0 +1,6 @@
+[submodule "scratch-vm_custom"]
+	path = scratch-vm_custom
+	url = https://github.com/HwangGB/scratch-vm_custom.git
+[submodule "scratch-gui_custom"]
+	path = scratch-gui_custom
+	url = https://github.com/HwangGB/scratch-gui_custom.git
